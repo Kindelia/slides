@@ -70,7 +70,7 @@ Juntamente com a criação de um ecossistema sobre a HVM.
 
 # Objetivo  Geral das aulas
 
-Treinar pessoas para  colaborar com a construção dakind, kind2, HVM e seu ecossistema.
+Treinar pessoas para  colaborar com a construção da kind, kind2, HVM e seu ecossistema.
 
 Qual o desafio? Aprender linguagens funcionais do zero, ao mesmo tempo em que são criadas.
 
